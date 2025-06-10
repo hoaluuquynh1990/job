@@ -9,3 +9,4 @@
 
 ## 🟨 You will unlock:
 - ✔️ Access to "Submit your project to participate to the monthly competition"
+
