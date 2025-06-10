@@ -8,3 +8,4 @@
 4. ✅ Submit your contract via the Google Form provided.
 
 ## 🟨 You will unlock:
+- ✔️ Access to "Submit your project to participate to the monthly competition"
