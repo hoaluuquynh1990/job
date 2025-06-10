@@ -7,3 +7,4 @@
 3. ✅ Deploy it to the Zama Public Testnet on Sepolia.
 4. ✅ Submit your contract via the Google Form provided.
 
+## 🟨 You will unlock:
